@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/amitkumar/project/FreeAPISample/build/Build/Products/Debug-iphonesimulator/SDWebImageSwiftUI/SDWebImageSwiftUI.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SDWebImageSwiftUI.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/amitkumar/project/FreeAPISample/build/Build/Products/Debug-iphonesimulator/SDWebImageSwiftUI/SDWebImageSwiftUI.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "SDWebImageSwiftUI-Swift.h",
+      "external-contents": "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SDWebImageSwiftUI.build/unextended-interface-header.h",
+    }]
+  }]
+}

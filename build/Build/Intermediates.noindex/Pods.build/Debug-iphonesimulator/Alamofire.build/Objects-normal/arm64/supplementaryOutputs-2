@@ -1,0 +1,30 @@
+{
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/DataRequest.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataRequest.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataRequest.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataRequest.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataRequest.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataRequest.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Features/CachedResponseHandler.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Features/Combine.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Features/Concurrency.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+  }
+}

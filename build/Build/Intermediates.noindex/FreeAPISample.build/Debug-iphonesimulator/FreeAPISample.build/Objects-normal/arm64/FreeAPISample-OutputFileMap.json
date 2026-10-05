@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISample-primary.dia",
+    "emit-module-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISample-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISample-primary-emit-module.dia",
+    "pch" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISample-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISample-primary.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/ContentView.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/FreeAPISampleApp.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/FreeAPISampleApp~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Models/Breed.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/Breed~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Models/BreedImage.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedImage~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Networking/APIClient.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIClient~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Networking/APIError.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/APIError~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Networking/DogService.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/DogService~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/ViewModels/BreedListViewModel.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListViewModel~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/ViewModels/BreedPhotosViewModel.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedPhotosViewModel~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Views/BreadPhotosView.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreadPhotosView~partial.swiftmodule"
+  },
+  "/Users/amitkumar/project/FreeAPISample/FreeAPISample/Views/BreedListView.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.dia",
+    "index-unit-output-path" : "/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.o",
+    "llvm-bc" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.bc",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView.swiftdeps",
+    "swiftmodule" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/FreeAPISample.build/Debug-iphonesimulator/FreeAPISample.build/Objects-normal/arm64/BreedListView~partial.swiftmodule"
+  }
+}

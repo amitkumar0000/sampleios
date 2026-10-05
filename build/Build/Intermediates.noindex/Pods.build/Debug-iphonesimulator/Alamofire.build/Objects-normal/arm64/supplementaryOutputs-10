@@ -1,0 +1,23 @@
+{
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/SessionDelegate.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/UploadRequest.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/UploadRequest.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/UploadRequest.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/UploadRequest.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/UploadRequest.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/UploadRequest.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.swiftdeps"
+  }
+}

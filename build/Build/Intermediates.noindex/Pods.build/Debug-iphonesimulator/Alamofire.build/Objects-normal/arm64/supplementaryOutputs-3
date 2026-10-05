@@ -1,0 +1,30 @@
+{
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/DataStreamRequest.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataStreamRequest.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataStreamRequest.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataStreamRequest.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataStreamRequest.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DataStreamRequest.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/DownloadRequest.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DownloadRequest.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DownloadRequest.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DownloadRequest.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DownloadRequest.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DownloadRequest.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Features/EventMonitor.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftdeps"
+  }
+}

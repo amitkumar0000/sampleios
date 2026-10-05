@@ -1,0 +1,26 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/SDKSettings.json \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Foundation-AM3I59D3YYO4LYS4KCT2C3HQC.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/UIUtilities-AF9HVCP0AE59TUM87PI1NTPRD.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/SubFrameworks/UIUtilities.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreGraphics-BAIVIRDWHODOZEWR3NMF2Q2CM.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreText-2IMPCDSX873X74JWC0T4MEOZS.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreText.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreImage-A8ZP1KVI6HLQDAMB6U2VBWKW3.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreImage.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/QuartzCore-7N514YP15NJ4PJ5CHZ1C3CJVJ.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/QuartzCore.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreLocation-75BFS4TTH06SKVCKQ8JF01Q4V.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreLocation.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreMotion-8DDL6EPEFRAV90I1KLJXJC8N9.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreMotion.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Symbols-F4BW31IUFSVLQ2AR5NDD2AYC8.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/Symbols.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/FileProvider-6LZ3Z3WJXSVKRM7ZO0RJC7R20.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/FileProvider.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/UserNotifications-CNSVY4OLZ43WGPGOLJT9DVCDB.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/UserNotifications.framework/Modules/module.modulemap

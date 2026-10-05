@@ -1,0 +1,19 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/SDKSettings.json \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_DarwinFoundation1-135XG1AWAGNTUJ3UG78J08C91.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdbool-435JWA5SDYDOFNM7FEGOJPYUN.pcm \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdint-C5XE8MMWGKAKWP30DMCAVZWCV.pcm \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreGraphics-BAIVIRDWHODOZEWR3NMF2Q2CM.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/usr/include/ObjectiveC.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Foundation-AM3I59D3YYO4LYS4KCT2C3HQC.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreVideo-559PA1IREI218LMGY3NKNYZKL.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/IOSurface.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/OpenGLES.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/Metal.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/CoreVideo.framework/Modules/module.modulemap \
+  /Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/ImageIO-4DWIBXCH8X6SG8PCADBNOG10P.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk/System/Library/Frameworks/ImageIO.framework/Modules/module.modulemap

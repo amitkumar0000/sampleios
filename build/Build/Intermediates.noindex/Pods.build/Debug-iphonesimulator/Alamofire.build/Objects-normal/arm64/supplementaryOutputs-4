@@ -1,0 +1,30 @@
+{
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/HTTPHeaders.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/HTTPMethod.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Core/Instant.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Instant.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Instant.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Instant.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Instant.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Instant.swiftdeps"
+  },
+  "/Users/amitkumar/project/FreeAPISample/Pods/Alamofire/Source/Features/MultipartFormData.swift" : {
+    "const-values" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftconstvalues",
+    "dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.d",
+    "diagnostics" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia",
+    "object" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.o",
+    "swift-dependencies" : "/Users/amitkumar/project/FreeAPISample/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  }
+}

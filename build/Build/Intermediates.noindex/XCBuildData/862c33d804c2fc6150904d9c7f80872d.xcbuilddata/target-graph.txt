@@ -1,0 +1,18 @@
+Target dependency graph (7 targets)
+Target 'FreeAPISample' in project 'FreeAPISample'
+➜ Implicit dependency on target 'Pods-FreeAPISample' in project 'Pods' via file 'Pods_FreeAPISample.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Alamofire' in project 'Pods' via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SDWebImage' in project 'Pods' via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SDWebImageSwiftUI' in project 'Pods' via options '-framework SDWebImageSwiftUI' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-FreeAPISample' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImageSwiftUI' in project 'Pods'
+Target 'SDWebImageSwiftUI' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+Target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage-SDWebImage' in project 'Pods'
+Target 'SDWebImage-SDWebImage' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire-Alamofire' in project 'Pods'
+Target 'Alamofire-Alamofire' in project 'Pods' (no dependencies)
