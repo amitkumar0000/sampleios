@@ -1,0 +1,13 @@
+# SwiftPM
+.build/
+.swiftpm/
+Modules/SampleModules/.build/
+Modules/SampleModules/dist/
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store

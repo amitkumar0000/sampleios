@@ -1,0 +1,42 @@
+// swift-tools-version:5.9
+//
+// BINARY distribution manifest for the SampleModules package.
+//
+// This file is a TEMPLATE. scripts/release.sh fills in the placeholders
+// (__VERSION__, __NETWORK_CHECKSUM__, __LOGGER_CHECKSUM__) and publishes the
+// result as `Package.swift` on the `binary` branch.
+//
+// Consumers of the `binary` branch get ProductA / ProductB as pre-compiled
+// XCFrameworks instead of source. The modules and imports are identical to the
+// source package.
+//
+import PackageDescription
+
+let version = "__VERSION__"
+let baseURL = "https://github.com/amitkumar0000/sampleios/releases/download/\(version)"
+
+let package = Package(
+    name: "SampleModules",
+    platforms: [
+        .iOS(.v15)
+    ],
+    products: [
+        // ProductA ships BOTH modules (Network + Logger) as binaries.
+        .library(name: "ProductA", targets: ["Network", "Logger"]),
+
+        // ProductB ships ONLY the Network module as a binary.
+        .library(name: "ProductB", targets: ["Network"])
+    ],
+    targets: [
+        .binaryTarget(
+            name: "Network",
+            url: "\(baseURL)/Network.xcframework.zip",
+            checksum: "__NETWORK_CHECKSUM__"
+        ),
+        .binaryTarget(
+            name: "Logger",
+            url: "\(baseURL)/Logger.xcframework.zip",
+            checksum: "__LOGGER_CHECKSUM__"
+        )
+    ]
+)

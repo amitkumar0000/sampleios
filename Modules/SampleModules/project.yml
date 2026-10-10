@@ -1,0 +1,63 @@
+# XcodeGen spec.
+#
+# This Xcode project exists ONLY to emit the Network/Logger XCFrameworks for
+# binary distribution. It shares the very same sources as Package.swift, so
+# there is a single source of truth. Consumers never need this file or XcodeGen.
+#
+# Regenerate the project with:  xcodegen generate
+name: SampleModules
+
+options:
+  bundleIdPrefix: com.amitkumar.samplemodules
+  deploymentTarget:
+    iOS: "15.0"
+  createIntermediateGroups: true
+
+settings:
+  base:
+    # Ship ABI-stable binaries that future Swift compilers can consume.
+    BUILD_LIBRARY_FOR_DISTRIBUTION: YES
+    # Emit a framework into the archive (not just a build product).
+    SKIP_INSTALL: NO
+    # Static frameworks: no embedding required and simplest for SPM binaryTarget.
+    MACH_O_TYPE: staticlib
+    DEFINES_MODULE: YES
+    SWIFT_VERSION: "5.0"
+    IPHONEOS_DEPLOYMENT_TARGET: "15.0"
+    # Frameworks are unsigned here; signing happens when the host app bundles them.
+    CODE_SIGN_IDENTITY: ""
+    CODE_SIGNING_REQUIRED: NO
+    CODE_SIGNING_ALLOWED: NO
+
+targets:
+  Network:
+    type: framework
+    platform: iOS
+    sources:
+      - path: Sources/Network
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.amitkumar.samplemodules.network
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_NAME: Network
+
+  Logger:
+    type: framework
+    platform: iOS
+    sources:
+      - path: Sources/Logger
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.amitkumar.samplemodules.logger
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_NAME: Logger
+
+schemes:
+  Network:
+    build:
+      targets:
+        Network: all
+  Logger:
+    build:
+      targets:
+        Logger: all

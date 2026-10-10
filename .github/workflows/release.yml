@@ -1,0 +1,42 @@
+name: Release
+
+on:
+  # Manual run: Actions ▸ Release ▸ Run workflow, enter a version (e.g. 1.0.0).
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to release (e.g. 1.0.0)"
+        required: true
+        type: string
+
+  # Or push a semver tag, e.g. `git tag 1.0.0 && git push origin 1.0.0`.
+  push:
+    tags:
+      - "*.*.*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: macos-15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Build, publish branches, create release
+        env:
+          # GITHUB_TOKEN lets release.sh push the source/binary branches and the
+          # tag, and lets `gh` create the release with assets.
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPO: ${{ github.repository }}
+        run: |
+          VERSION="${{ github.event.inputs.version || github.ref_name }}"
+          echo "Releasing ${VERSION}"
+          ./scripts/release.sh "${VERSION}"
